@@ -10,7 +10,7 @@ talk about what you're interested in getting out of the course and what you are 
 
 # Portfolio
 ### Assignment 1: Setting up and maintaining your online portfolio
-### Assignment 2: Visualizing Government Debt
+### Assignment 2: [Visualizing Government Debt](visualizing-government-debt.md)
 ### Assignment 3 & 4: Critique by Design
 ### Final Project
  - **Part I: a project proposal.**  An outline of project, copies of data, and the identified method used for presenting.
