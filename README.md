@@ -13,6 +13,7 @@ talk about what you're interested in getting out of the course and what you are 
 ### Assignment 2: Visualizing Government Debt
 ### Assignment 3 & 4: Critique by Design
 ### Final Project
-Part I: a project proposal
-
+ - **Part I: a project proposal.**  An outline of project, copies of data, and the identified method used for presenting.
+ - **Part II: Sketches, wireframes, storyboards.**  User research and incorporating user feedback.
+ - **Part III: Final deliverable and presentation.**  The final deliverable.
 
