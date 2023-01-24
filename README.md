@@ -3,10 +3,13 @@ This is my public portfolio for the Telling Stories with Data class at CMU.
 
 # About me
 Hi! I am Yilin. I am studying master of information system management in CMU.
-Under the About me section, write a couple paragraphs about yourself!  You can include things like your name, pronouns, the program you're in, or other insights you'd like to share with the class (and more broadly, perhaps future employers!).  You don't have to include any personal information here that you would prefer keeping off of a public website (see the note below). 
 
 # What I hope to learn
-talk about what you're interested in getting out of the course and what you are planning to do once you graduate.
+* the principles of good data visualization design, such as using appropriate chart types, color schemes, and labeling.
+* data visualization best practices and techniques for creating effective charts, graphs, and other visualizations.
+* tools and software for creating data visualizations, such as Excel, R, and Tableau.
+* methods for creating a narrative and effectively communicating data-driven findings to an audience.
+* the critical thinking skills needed to evaluate data, identify patterns, and make informed decisions.
 
 # Portfolio
 ### Assignment 1: Setting up and maintaining your online portfolio
