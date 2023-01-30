@@ -8,3 +8,9 @@ General government debt-to-GDP ratio measures the gross debt of the general gove
 
 
 ## Part 2: Working with Flourish
+
+Visualization 1: Grid of Line Charts
+
+The following line charts depicts Debt-to-GDP ratio across various countries from 1995 to 2021.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/12596956"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
