@@ -16,6 +16,7 @@ The visualization displays a grid of line charts showcasing the government debt 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12596956"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
 **Visualization 3: third data visualization**
 
 different methods of visualization, and how they compare / contrast to one another
