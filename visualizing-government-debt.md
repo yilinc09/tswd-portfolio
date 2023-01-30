@@ -12,7 +12,7 @@ General Government Debt for 2021
 
 **Visualization 2: Grid of Line Charts**
 
-The following line charts depicts Debt-to-GDP ratio across various countries from 1995 to 2021.
+The visualization displays a grid of line charts showcasing the government debt of various nations from 1995 to 2021. The grid contains several mini line charts, one for each country, showing the evolution of the Debt-to-GDP ratio from 1995 to 2021 for each nation.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12596956"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
