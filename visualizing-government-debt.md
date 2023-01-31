@@ -18,16 +18,17 @@ The visualization displays a grid of line charts showcasing the government debt 
 
 
 **Visualization 3: The third data visualization**
-I choose to use line chart to presents the trend of debt-to-GDP ratio for all countries.
+
+This visualization presents the Government Debt-to-GDP ratio for all European countries. 
+
 
 
 ## Conclusion
 **Bar Chart:** It focuses on the data of 2021 and arrange countries in ascending order of the Debt-to-GDP ratio. People can clearly see which government has the largest ratio and select each bar to check detailed information. Japan, Greece, and Italy are the Top 3 leading country that has high debt-to-GDP ratio.
 
-**Grid of Line Charts:** It is easy to trace the debt-to-GDP ratio trend for each country from 1995 to 2021 but it is difficult to make comparison on the ratio value among countries. From the grid, we can see that Japan is the country with the highest growth rate of debt-to-GDP ratio over the past few years whereas Estonia's ratio stays low and stable.
+**Grid of Line Charts:** With the same x-scale and y-scale for each chart, it presents a comprehensive overview of the data and it makes easy to trace the debt-to-GDP ratio trend for each country. However, it is challenging to make comparison on data across countries. From the grid, we can see that Japan is the country with the highest growth rate of debt-to-GDP ratio over the past few years whereas Estonia's ratio stays low and stable. Moreover, as an interactive visualization, audience can hover over the lines to see the desired year's Debt-to-GDP ratio for a country.
 
-**Line Charts:**
-
+**Line Charts:** I choose to use line chart to investigate the overall debt-to-GDP ratio trend in Europe because it shows the changes over time. Line chart can compare multiple variables simultaneously so that I can extract relevant information among countries.
 
 
 ## Citation
