@@ -19,8 +19,9 @@ The visualization displays a grid of line charts showcasing the government debt 
 
 **Visualization 3: The third data visualization**
 
-This visualization presents the Government Debt-to-GDP ratio for all European countries. 
+This visualization presents the Government Debt-to-GDP ratio for all European countries with special focus on how Italy and Greece's Debt-to-GDP varies from 1995 to 2021.
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/12599441"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 ## Conclusion
