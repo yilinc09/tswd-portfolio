@@ -16,10 +16,9 @@ The visualization displays a grid of line charts showcasing the government debt 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12596956"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
 **Visualization 3: The third data visualization**
 
-This visualization presents the Government Debt-to-GDP ratio for all European countries with special focus on how Italy and Greece's Debt-to-GDP varies from 1995 to 2021.
+This visualization presents the Government Debt-to-GDP ratio for all European countries with special focus on how Italy and Greece's Debt-to-GDP varies from 1995 to 2021. I would like to investigate how Italy and Greece evolves to the top leading countries that bear high government debt-to-GDP ratio given the background of overall European countries' trend.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12599441"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -29,7 +28,7 @@ This visualization presents the Government Debt-to-GDP ratio for all European co
 
 **Grid of Line Charts:** With the same x-scale and y-scale for each chart, it presents a comprehensive overview of the data and it makes easy to trace the debt-to-GDP ratio trend for each country. However, it is challenging to make comparison on data across countries. From the grid, we can see that Japan is the country with the highest growth rate of debt-to-GDP ratio over the past few years whereas Estonia's ratio stays low and stable. Moreover, as an interactive visualization, audience can hover over the lines to see the desired year's Debt-to-GDP ratio for a country.
 
-**Line Charts:** I choose to use line chart to investigate the overall debt-to-GDP ratio trend in Europe because it shows the changes over time. Line chart can compare multiple variables simultaneously so that I can extract relevant information among countries.
+**Line Charts:** I choose to use line chart to investigate the overall debt-to-GDP ratio trend in Europe because it shows the changes over time. Line chart can compare multiple variables simultaneously so that I can extract relevant information among countries. From the above visualization, we found Greece and Italy's ratio starts off high since 1995 and they both drastically increase from 2011-2013.
 
 
 ## Citation
