@@ -3,7 +3,7 @@ I am curious to study the relationship between between unemployment and inflatio
 
 I found a journal article [_"Does a tradeoff between inflation and unemployment exist?"_](https://www.aeaweb.org/research/inflation-unemployment-retrospectives-milton-friedman-cruel-dilemma) from American Economic Association discuss on this topic. And here is the data visualization graph the article uses to assist the reader in understanding the :
 
-<img src="chart.png" alt="Employee data" width="150" height="160" title="Employee Data title">
+<img src="chart.png" alt="Employee data" width="350" height="360" title="Employee Data title">
 Source: Federal Reserve Bank of St. Louis
 
 ## Step two: critique the data visualization
