@@ -12,7 +12,7 @@ Hello, I am Yilin. I am a second-year graduate student at Carnegie Mellon Univer
 * The critical thinking skills needed to evaluate data, identify patterns, and make informed decisions.
 
 # Portfolio
-### Assignment 1: Setting up and maintaining your online portfolio
+### Assignment 1: [Setting up and maintaining your online portfolio](README.md)
 ### Assignment 2: [Visualizing Government Debt](visualizing-government-debt.md)
 ### Assignment 3 & 4: [Critique by Design](critique-by-design.md)
 ### Final Project
