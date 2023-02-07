@@ -15,14 +15,17 @@ This section will critique the selected visualization using Stephen Few's Data V
 **1. Usefulness - 8**
 
 * Is it useful for the intended audience?
+  
   In general, this visualization is useful for the intended audience to understand. The audiences who browse this article are mostly attracted by the title and would like to acquire more information on this topic. Using the time-series line graph in this case is a good choice because the viewers can easily catch the changes and trends of the unemployment and inflation over time.
 
 * Does it communicate valuable information?
+  
   In terms of communicating valuable information, that's where I deducted two points from the grading scale because the visualization does not directly show off 
 
 **2. Completeness - 8**
 
 * Does the visualization have everything necessary to make it understandable?
+  
   The data that shown on the graph are all relevant data. However, similar as the evaluation of the usefulness above 
 
 
