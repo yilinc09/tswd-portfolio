@@ -9,15 +9,21 @@ I found a blog [_Trade off between unemployment and inflation_](https://www.econ
 
 ## Step two: critique the data visualization
 
-This section will critique the selected visualization using Stephen Few's Data Visualization Effectiveness Profile. The effectiveness of the visualization is assessed through seven criteria: Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness, Aesthetics, and Engagement. In the [spreadsheet](data_visualization_effectiveness_profile.pdf), I ranked the visualization in each criteria out of the scale from 0 to 10 where 0 being the least degree and 10 being the most degree of effectiveness. Explanations and reasoning on choosing the scale of each metrics are provided below:
+This section will critique the selected visualization using Stephen Few's Data Visualization Effectiveness Profile. The effectiveness of the visualization is assessed through seven criteria, which are further divided into two general categories: _informative_ (Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness) and _emotive_(Aesthetics, Engagement). In the [spreadsheet](data_visualization_effectiveness_profile.pdf), each criteria is ranked on a scale of 1-10 where 0 being the least degree and 10 being the most degree of effectiveness. Explanations and reasonings on how I evaluated the given criteria are provided below:
 
-identify both the positive and negative aspects of the visualization
-develop insights about the target audience among other things
+### Informative
+**1. Usefulness - 8**
 
-**Usefulness - 8**
-In general, this visualization is useful for the intended audience to understand. The audiences who browse this article are mostly attracted by the title and would like to acquire more information on this topic. Using the line chart 
+- Is it useful for the intended audience?
+In general, this visualization is useful for the intended audience to understand. The audiences who browse this article are mostly attracted by the title and would like to acquire more information on this topic. Using the time-series line graph in this case is a good choice because the viewers can easily catch the changes and trends of the unemployment and inflation over time.
 
-In terms of communicating valueable information, that's where I deducted two points from the grading scale because the visualization doesn't 
+- Does it communicate valuable information?**
+In terms of communicating valuable information, that's where I deducted two points from the grading scale because the visualization does not directly show off 
+
+**2. Completeness - 8**
+
+- Does the visualization have everything necessary to make it understandable?**
+The data that shown on the graph are all relevant data. However, similar as the evaluation of the usefulness above 
 
 
 Finally, how successful what this particular tool / scale at evaluating the data visualizations? How does this method compare to the Good Charts method? Is there anything missing?  The final question in the survey digs into the question a bit. 
