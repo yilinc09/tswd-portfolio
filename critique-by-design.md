@@ -28,5 +28,43 @@ This section will critique the selected visualization using Stephen Few's Data V
   
   The data that shown on the graph are all relevant data. However, similar as the evaluation of the usefulness above 
 
+**3. Perceptibility**
+* Can the reader understand the information with minimal effort? 
+* Is the visualization type appropriate?  
+* Does it use illogical comparisons?
 
-Finally, how successful what this particular tool / scale at evaluating the data visualizations? How does this method compare to the Good Charts method? Is there anything missing?  The final question in the survey digs into the question a bit. 
+**4. Truthfulness**
+* Is the visualization accurate, reliable and valid?  
+* Is it representing what it says it is, and in the most complete and truthful manner? 
+* Does it misrepresent the data or make comparisions that aren't correct?
+
+**5. Intuitiveness**
+* Is it easy to understand and clearly communicates the information? 
+* If unfamiliar, does it include easy to understand instructions on how to interpret it?
+
+### Emotive
+**6. Aesthetics**
+* It is interesting / enjoyable to look at?  
+* Is it a good example of what a beautiful data visualization might look like?  
+* Is it somewhere in the middle - pleasing but otherwise not distracting to look at?
+
+**7. Engagement**
+* Does it lead the audience to learn more about the topic?  
+* Does it inspire the audience to talk about the data or share it with others?
+
+
+### Overall observations about the data visualization**  
+* What stood out to you?  
+* What did you find worked really well?  
+* What didn't?  
+* What, if anything, would you do differently? 
+
+### Audience Analysis
+* Who is the primary audience for this tool?  
+* Do you think this visualization is effective for reaching that audience?  
+* Why or why not?
+
+### Final thoughts: 
+* How successful what this method at evaluating the data visualization you selected? 
+* Are there measures you feel are missing or not being captured here?  
+* What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)
