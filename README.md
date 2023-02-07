@@ -14,7 +14,7 @@ Hello, I am Yilin. I am a second-year graduate student at Carnegie Mellon Univer
 # Portfolio
 ### Assignment 1: Setting up and maintaining your online portfolio
 ### Assignment 2: [Visualizing Government Debt](visualizing-government-debt.md)
-### Assignment 3 & 4: Critique by Design
+### Assignment 3 & 4: [Critique by Design](critique-by-design.md)
 ### Final Project
  - **Part I: a project proposal.**  An outline of project, copies of data, and the identified method used for presenting.
  - **Part II: Sketches, wireframes, storyboards.**  User research and incorporating user feedback.
