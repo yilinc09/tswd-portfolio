@@ -9,3 +9,4 @@ I found a blog [_Trade off between unemployment and inflation_](https://www.econ
 
 ## Step two: critique the data visualization
 
+Finally, how successful what this particular tool / scale at evaluating the data visualizations? How does this method compare to the Good Charts method? Is there anything missing?  The final question in the survey digs into the question a bit. 
