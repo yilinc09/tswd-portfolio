@@ -42,11 +42,11 @@ Overall, the graph will lead the viewer to learn more about the topic from the c
 
 ### Overall observations about the data visualization
 
+The two trendlines are the first thing that stood out to me. Using contrasting colors was a great choice which made it easy for me as an audience to differentiate between the two variables. The horizontal grid is also a good choice that stood out to me, as it makes it easier to backtrack data values farther away from the y-axis. 
 
-* What stood out to you?  
-* What did you find worked really well?  
-* What didn't?  
-* What, if anything, would you do differently? 
+However, the x-axis and y-axis didn't quite work well. The x-axis labels contain unnecessary information such as month and day, making the whole picture visually unpleasant and distracting. The y-axis title is vague providing no information describing the data but only the unit of measurement. The title is too simple to convey any information. At the same time, too many small upside downs in both curves gave me a hard time to compare and interpret how the two variables relate to each other.
+
+If I were to make a visualization built upon the same dataset, I would label the x-axis with year intervals and change the position of labelling to the bottom instead of y=0. I would re-name the y-axis title as _Percentage Rate (%)_ and move the legend into the figure so the audience does not need to take their eyes off the lines to find the corresponding color representation. Due to the large time span, I would probably use quarterly data instead of monthly to do the comparison and find an alternative to make the transition between the two data points smoother.
 
 ### Audience Analysis
 **Who is the primary audience for this tool?**
@@ -54,15 +54,21 @@ Overall, the graph will lead the viewer to learn more about the topic from the c
   * People who need to leverage their relationship to make relevant business decisions.
 
 **Do you think this visualization is effective for reaching that audience? Why or why not?**
-  * The line graph format is a common and well-understood visual representation of data, and the clear labeling of the x-axis and y-axis with appropriate units makes it easy to understand the data being presented. The use of colors, labels, and design add to the overall engagement of the graph and make it an effective tool for communicating the data to this audience.
+
+The line graph format is a common and well-understood visual representation of time-series data, and the appropriate units of x-axis and y-axis makes it easy to understand the data being presented. The use of colors, labels, and design add to the overall engagement of the graph and make it an effective tool for communicating the data to this audience. The main failure of this visualization stems from the inability to clearly communicate the relationship between unemployment and inflation.
+
 
 ### Final thoughts: 
 **How successful what this method at evaluating the data visualization you selected?**
+
+In general, this method can be considered as a useful tool for evaluating the effectiveness of my selected data visualization. It helped me evaluate the visualization from multiple dimensions and gave me a more holistic understanding of the topic. As I evaluate it more deeply, it made me more aware of what information I want this visualization to communicate, and what this visualization lacks in terms of effective storytelling. Although the standard details of some criteria seems to be overlapping, it is still able to provide me a more complete picture on the redesign process of the visualization.
 
 The Data Visualization Effectiveness Profile method is more focused on evaluating existing visualizations and determining their effectiveness, while the Good Charts method is focused on a step-by-step process for creating new visualizations. The Data Visualization Effectiveness Profile method evaluates visualizations based on specific criteria and the measurement is qunatified, while the Good Charts method provides a broader set of guidelines for creating effective visualizations.
 
 **Are there measures you feel are missing or not being captured here?**
 
+I don't feel any missing measures that needed to be captured at this point.
 
+**What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)**
 
-* What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)
+I would redesign the visualization by creating the shaded gray background on when the United States is in recession and possibly extend the timeline to current years.
