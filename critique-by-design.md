@@ -1,4 +1,4 @@
-## Step one: find a data visualization (with data you can use!)
+## Step one: find a data visualization
 I am curious to study the relationship between unemployment and inflation in the United States. I briefly touched on the concept of their relationship in an undergraduate economics class, and it is stated by economists that there should be a trade-off between unemployment and inflation. The relationship between inflation and unemployment has historically had an inverse correlation. This hypothesized relationship is represented by the economic model, the Philips Curve. 
 
 However, concepts cannot always reflect the more complicated real-world situations. In 1970s, there is a period of increased rate of both unemployment and inflation. This violation of the proposed inverse correlation happened again from 2009 onwards: the unemployment rate and inflation rate rise together and then fall together. Therefore, it is always helpful to dig into the time series data and investigate the trend across time.
@@ -33,17 +33,16 @@ The data used to create the visualization is accurate and reliable because the d
 It is easy to understand what information shows from the line chart, but the relationship between the two variables is difficult to tell with minimal effort. The similar reasoning has been explained in the above criteria section. Since line chart is a commonly used data visualization technique, there are no additional instruction provided in interpreting the information.
 
 ### 6. Aesthetics - 4
-* The use of colors in the graph is effective. The blue and red line stands out clearly against the white background and is easy to distinguish from each other. 
-* The x-axis labels crowding together make it not pleasant to look at. Unnecessary information is provided, such as month and day, but year is already enough. 
-* The y-axis title is vague. "%" is only the unit of measurement but it does not tell any information to describe the number.
-* There are too many small twists and turns in the line makes it harder to make comparison.
+While the overall aesthetic of the visualization needs more work, I'll start evaluating the good parts. The use of colors in the graph is effective. The blue and red line stands out clearly against the white background and is easy to distinguish from each other. However, the x-axis and y-axis seems to be less aesthetic and expressive. The x-axis labels are crowded together, making it not pleasant to look at. Providing unnecessary information, such as month and day, would potentially distract audiences. Labelling with the year intervals should be sufficient. The y-axis title is ambiguous. The "%" is just a unit of measurement but does not provide any information describing the number. There are also many small twists and turns in the line makes it harder to make comparison.
 
-### 7. Engagement
+### 7. Engagement - 10
 
 Overall, the graph will lead the viewer to learn more about the topic from the conclusions they drawn from the graph. It will inspire viewers to investigate why movements in unemployment and inflation sometimes violate the relationship prescribed in economic theory - how do recession periods affect their relationship and how did the stagnation shown in the graph around the 1970s actually occur? People can use this graph as a basis to discuss the data and share their insights with others.
 
 
 ### Overall observations about the data visualization
+
+
 * What stood out to you?  
 * What did you find worked really well?  
 * What didn't?  
