@@ -72,3 +72,6 @@ I don't feel any missing measures that needed to be captured at this point.
 **What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)**
 
 I would redesign the visualization by creating the shaded gray background on when the United States is in recession and possibly extend the timeline to current years.
+
+## Step three: sketch out a solution
+
