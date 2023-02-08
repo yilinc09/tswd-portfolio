@@ -11,41 +11,39 @@ I found a blog [_Trade off between unemployment and inflation_](https://www.econ
 
 This section will critique the selected visualization using Stephen Few's Data Visualization Effectiveness Profile. The effectiveness of the visualization is assessed through seven criteria, which are further divided into two general categories: _informative_ (Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness) and _emotive_(Aesthetics, Engagement). In the [spreadsheet](data_visualization_effectiveness_profile.pdf), each criteria is ranked on a scale of 1-10 where 0 being the least degree and 10 being the most degree of effectiveness. Explanations and reasonings on how I evaluated the given criteria are provided below:
 
-### Informative
-**1. Usefulness - 8**
+### 1. Usefulness - 8
 
 In general, this visualization is useful for the intended audience to understand. The audiences who browse this article are mostly attracted by the title and would like to acquire more information on this topic. Using the time-series line graph in this case is a good choice because the viewers can easily catch the changes and trends of the unemployment and inflation over time. The audience can also easily compare how these two economic variables relate to each other. In terms of communicating valuable information, that's where I deducted two points from the grading scale because the visualization does not directly show off in which time period the trade-off happens.
 
-**2. Completeness - 8**
+### 2. Completeness - 8
 
-The data visualization does have the correct information. However, this visualization uses too much data which causes the line zigzagging around and makes the overall comparison between the two data trends less significant. 
+The data visualization has everything necessary to make it understandable. The x-axis represents the years and the y-axis represents the percentage rate. The data points are clearly labeled and easy to read. However, the only point is the visualization uses too much data which causes the line zigzagging around and makes the overall comparison between the two data trends less significant. On the other hand, we can provide more information such as the gap between two rates and highlight period where inverse relationship between two variables occurs.
 
-**3. Perceptibility - 6**
+### 3. Perceptibility - 6
 
-The reader could not understand the information with minimal effort because it requires a much closer look to find out how changes in one variable results the changes in other variable. As mentioned earlier, time-series line graph is the appropriate visualization type to clearly show the pattern of changes multiple variables over time. In terms of how the visualization shows the comparison between the two variables, choosing two different colors helps the viewer to easily distinguish the two variables, but the meandering trendline makes the trends of the two lines less comparable.
+The reader could not understand the information with minimal effort because it requires a much closer look to find out how changes in one variable results the changes in other variable. As mentioned earlier, time-series line graph is the appropriate visualization type to clearly show the pattern of changes multiple variables over time. In terms of how the visualization shows the comparison between the two variables, the visualization uses two different colors to help the viewer distinguish between the two variables, but the meandering trendline makes it difficult to compare the variables.
 
-**4. Truthfulness - 10**
+
+### 4. Truthfulness - 10
 
 The data used to create the visualization is accurate and reliable because the data is sourced from [Federal Reserve Bank of St. Louis](www.stlouisfed.org) as cited in the graph. In addition, the methodology employed in creating the graph is valid because time series line graph effectively represents changes in unemployment and inflation over time and provides a clear representation of the relationship between them. Therefore, the visualization has represented the main idea in the most complete and truthful manner without making comparisions that are incorrect.
 
-**5. Intuitiveness**
+### 5. Intuitiveness - 5
 
-It is easy to understand what information shows from the line chart, but 
-* Is it easy to understand and clearly communicates the information? 
-* If unfamiliar, does it include easy to understand instructions on how to interpret it?
+It is easy to understand what information shows from the line chart, but the relationship between the two variables is difficult to tell with minimal effort. The similar reasoning has been explained in the above criteria section. Since line chart is a commonly used data visualization technique, there are no additional instruction provided in interpreting the information.
 
-### Emotive
-**6. Aesthetics - 3**
-* It is interesting / enjoyable to look at?  
-* Is it a good example of what a beautiful data visualization might look like?  
-* Is it somewhere in the middle - pleasing but otherwise not distracting to look at?
+### 6. Aesthetics - 4
+* The use of colors in the graph is effective. The blue and red line stands out clearly against the white background and is easy to distinguish from each other. 
+* The x-axis labels crowding together make it not pleasant to look at. Unnecessary information is provided, such as month and day, but year is already enough. 
+* The y-axis title is vague. "%" is only the unit of measurement but it does not tell any information to describe the number.
+* There are too many small twists and turns in the line makes it harder to make comparison.
 
-**7. Engagement**
-* Does it lead the audience to learn more about the topic?  
-* Does it inspire the audience to talk about the data or share it with others?
+### 7. Engagement
+
+Overall, the graph will lead the viewer to learn more about the topic from the conclusions they drawn from the graph. It will inspire viewers to investigate why movements in unemployment and inflation sometimes violate the relationship prescribed in economic theory - how do recession periods affect their relationship and how did the stagnation shown in the graph around the 1970s actually occur? People can use this graph as a basis to discuss the data and share their insights with others.
 
 
-### Overall observations about the data visualization**  
+### Overall observations about the data visualization
 * What stood out to you?  
 * What did you find worked really well?  
 * What didn't?  
