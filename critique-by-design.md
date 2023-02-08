@@ -9,7 +9,7 @@ I found a blog [_Trade off between unemployment and inflation_](https://www.econ
 
 ## Step two: critique the data visualization
 
-This section will critique the selected visualization using Stephen Few's Data Visualization Effectiveness Profile. The effectiveness of the visualization is assessed through seven criteria, which are further divided into two general categories: _informative_ (Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness) and _emotive_(Aesthetics, Engagement). In the [spreadsheet](Data Visualization Effectiveness Profile.pdf), each criteria is ranked on a scale of 1-10 where 0 being the least degree and 10 being the most degree of effectiveness. Explanations and reasonings on how I evaluated the given criteria are provided below:
+This section will critique the selected visualization using Stephen Few's Data Visualization Effectiveness Profile. The effectiveness of the visualization is assessed through seven criteria, which are further divided into two general categories: _informative_ (Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness) and _emotive_(Aesthetics, Engagement). In the [spreadsheet](https://yilinc09.github.io/tswd-portfolio/Data%20Visualization%20Effectiveness%20Profile.pdf), each criteria is ranked on a scale of 1-10 where 0 being the least degree and 10 being the most degree of effectiveness. Explanations and reasonings on how I evaluated the given criteria are provided below:
 
 ### 1. Usefulness - 8
 
@@ -26,7 +26,7 @@ The reader could not understand the information with minimal effort because it r
 
 ### 4. Truthfulness - 10
 
-The data used to create the visualization is accurate and reliable because the data is sourced from [Federal Reserve Bank of St. Louis](www.stlouisfed.org) as cited in the graph. In addition, the methodology employed in creating the graph is valid because time series line graph effectively represents changes in unemployment and inflation over time and provides a clear representation of the relationship between them. Therefore, the visualization has represented the main idea in the most complete and truthful manner without making comparisions that are incorrect.
+The data used to create the visualization is accurate and reliable because the data is sourced from [Federal Reserve Bank of St. Louis](https://www.stlouisfed.org/) as cited in the graph. In addition, the methodology employed in creating the graph is valid because time series line graph effectively represents changes in unemployment and inflation over time and provides a clear representation of the relationship between them. Therefore, the visualization has represented the main idea in the most complete and truthful manner without making comparisions that are incorrect.
 
 ### 5. Intuitiveness - 5
 
