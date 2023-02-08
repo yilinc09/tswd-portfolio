@@ -13,7 +13,6 @@ This section will critique the selected visualization using Stephen Few's Data V
 
 ### Informative
 **1. Usefulness - 8**
-
 * Is it useful for the intended audience?
   
   In general, this visualization is useful for the intended audience to understand. The audiences who browse this article are mostly attracted by the title and would like to acquire more information on this topic. Using the time-series line graph in this case is a good choice because the viewers can easily catch the changes and trends of the unemployment and inflation over time.
@@ -60,11 +59,14 @@ This section will critique the selected visualization using Stephen Few's Data V
 * What, if anything, would you do differently? 
 
 ### Audience Analysis
-* Who is the primary audience for this tool?  
-* Do you think this visualization is effective for reaching that audience?  
-* Why or why not?
+* Who is the primary audience for this tool? 
+  * People who are interested in understanding the relationship between inflation and unemployment. 
+  * People who need to leverage relationships to make relevant business decisions.
+* Do you think this visualization is effective for reaching that audience? Why or why not?
+  * The line graph format is a common and well-understood visual representation of data, and the clear labeling of the x-axis and y-axis with appropriate units makes it easy to understand the data being presented. The use of colors, labels, and design add to the overall engagement of the graph and make it an effective tool for communicating the data to this audience.
 
 ### Final thoughts: 
 * How successful what this method at evaluating the data visualization you selected? 
+  The Data Visualization Effectiveness Profile method is more focused on evaluating existing visualizations and determining their effectiveness, while the Good Charts method is focused on a step-by-step process for creating new visualizations. The Data Visualization Effectiveness Profile method evaluates visualizations based on specific criteria, such as the clarity of the data being presented and the use of colors and labels, while the Good Charts method provides a broader set of guidelines for creating effective visualizations.
 * Are there measures you feel are missing or not being captured here?  
 * What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)
