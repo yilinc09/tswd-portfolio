@@ -13,13 +13,7 @@ This section will critique the selected visualization using Stephen Few's Data V
 
 ### Informative
 **1. Usefulness - 8**
-* Is it useful for the intended audience?
-  
-  In general, this visualization is useful for the intended audience to understand. The audiences who browse this article are mostly attracted by the title and would like to acquire more information on this topic. Using the time-series line graph in this case is a good choice because the viewers can easily catch the changes and trends of the unemployment and inflation over time.
-
-* Does it communicate valuable information?
-  
-  In terms of communicating valuable information, that's where I deducted two points from the grading scale because the visualization does not directly show off 
+  In general, this visualization is useful for the intended audience to understand. The audiences who browse this article are mostly attracted by the title and would like to acquire more information on this topic. Using the time-series line graph in this case is a good choice because the viewers can easily catch the changes and trends of the unemployment and inflation over time. The audience can also easily compare how these two economic variables relate to each other. In terms of communicating valuable information, that's where I deducted two points from the grading scale because the visualization does not directly show off in which time period the trade-off happens.
 
 **2. Completeness - 8**
 
@@ -33,9 +27,7 @@ This section will critique the selected visualization using Stephen Few's Data V
 * Does it use illogical comparisons?
 
 **4. Truthfulness**
-* Is the visualization accurate, reliable and valid?  
-* Is it representing what it says it is, and in the most complete and truthful manner? 
-* Does it misrepresent the data or make comparisions that aren't correct?
+  The data used to create the visualization is accurate and reliable because the data is sourced from [Federal Reserve Bank of St. Louis](www.stlouisfed.org) as cited in the graph. In addition, the methodology employed in creating the graph is valid because time series line graph effectively represents changes in unemployment and inflation over time and provides a clear representation of the relationship between them. Therefore, the visualization has represented the main idea in the most complete and truthful manner without making comparisions that are incorrect.
 
 **5. Intuitiveness**
 * Is it easy to understand and clearly communicates the information? 
@@ -59,7 +51,7 @@ This section will critique the selected visualization using Stephen Few's Data V
 * What, if anything, would you do differently? 
 
 ### Audience Analysis
-* Who is the primary audience for this tool? 
+**Who is the primary audience for this tool?**
   * People who are interested in understanding the relationship between inflation and unemployment. 
   * People who need to leverage relationships to make relevant business decisions.
 * Do you think this visualization is effective for reaching that audience? Why or why not?
