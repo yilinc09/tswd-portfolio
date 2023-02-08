@@ -9,7 +9,7 @@ I found a blog [_Trade off between unemployment and inflation_](https://www.econ
 
 ## Step two: critique the data visualization
 
-This section will critique the selected visualization using Stephen Few's Data Visualization Effectiveness Profile. The effectiveness of the visualization is assessed through seven criteria, which are further divided into two general categories: _informative_ (Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness) and _emotive_(Aesthetics, Engagement). In the [spreadsheet](data_visualization_effectiveness_profile.pdf), each criteria is ranked on a scale of 1-10 where 0 being the least degree and 10 being the most degree of effectiveness. Explanations and reasonings on how I evaluated the given criteria are provided below:
+This section will critique the selected visualization using Stephen Few's Data Visualization Effectiveness Profile. The effectiveness of the visualization is assessed through seven criteria, which are further divided into two general categories: _informative_ (Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness) and _emotive_(Aesthetics, Engagement). In the [spreadsheet](Data Visualization Effectiveness Profile.pdf), each criteria is ranked on a scale of 1-10 where 0 being the least degree and 10 being the most degree of effectiveness. Explanations and reasonings on how I evaluated the given criteria are provided below:
 
 ### 1. Usefulness - 8
 
