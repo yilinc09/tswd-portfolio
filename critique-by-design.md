@@ -13,28 +13,29 @@ This section will critique the selected visualization using Stephen Few's Data V
 
 ### Informative
 **1. Usefulness - 8**
-  In general, this visualization is useful for the intended audience to understand. The audiences who browse this article are mostly attracted by the title and would like to acquire more information on this topic. Using the time-series line graph in this case is a good choice because the viewers can easily catch the changes and trends of the unemployment and inflation over time. The audience can also easily compare how these two economic variables relate to each other. In terms of communicating valuable information, that's where I deducted two points from the grading scale because the visualization does not directly show off in which time period the trade-off happens.
+
+In general, this visualization is useful for the intended audience to understand. The audiences who browse this article are mostly attracted by the title and would like to acquire more information on this topic. Using the time-series line graph in this case is a good choice because the viewers can easily catch the changes and trends of the unemployment and inflation over time. The audience can also easily compare how these two economic variables relate to each other. In terms of communicating valuable information, that's where I deducted two points from the grading scale because the visualization does not directly show off in which time period the trade-off happens.
 
 **2. Completeness - 8**
 
-* Does the visualization have everything necessary to make it understandable?
-  
-  The data that shown on the graph are all relevant data. However, similar as the evaluation of the usefulness above 
+The data visualization does have the correct information. However, this visualization uses too much data which causes the line zigzagging around and makes the overall comparison between the two data trends less significant. 
 
-**3. Perceptibility**
-* Can the reader understand the information with minimal effort? 
-* Is the visualization type appropriate?  
-* Does it use illogical comparisons?
+**3. Perceptibility - 6**
 
-**4. Truthfulness**
-  The data used to create the visualization is accurate and reliable because the data is sourced from [Federal Reserve Bank of St. Louis](www.stlouisfed.org) as cited in the graph. In addition, the methodology employed in creating the graph is valid because time series line graph effectively represents changes in unemployment and inflation over time and provides a clear representation of the relationship between them. Therefore, the visualization has represented the main idea in the most complete and truthful manner without making comparisions that are incorrect.
+The reader could not understand the information with minimal effort because it requires a much closer look to find out how changes in one variable results the changes in other variable. As mentioned earlier, time-series line graph is the appropriate visualization type to clearly show the pattern of changes multiple variables over time. In terms of how the visualization shows the comparison between the two variables, choosing two different colors helps the viewer to easily distinguish the two variables, but the meandering trendline makes the trends of the two lines less comparable.
+
+**4. Truthfulness - 10**
+
+The data used to create the visualization is accurate and reliable because the data is sourced from [Federal Reserve Bank of St. Louis](www.stlouisfed.org) as cited in the graph. In addition, the methodology employed in creating the graph is valid because time series line graph effectively represents changes in unemployment and inflation over time and provides a clear representation of the relationship between them. Therefore, the visualization has represented the main idea in the most complete and truthful manner without making comparisions that are incorrect.
 
 **5. Intuitiveness**
+
+It is easy to understand what information shows from the line chart, but 
 * Is it easy to understand and clearly communicates the information? 
 * If unfamiliar, does it include easy to understand instructions on how to interpret it?
 
 ### Emotive
-**6. Aesthetics**
+**6. Aesthetics - 3**
 * It is interesting / enjoyable to look at?  
 * Is it a good example of what a beautiful data visualization might look like?  
 * Is it somewhere in the middle - pleasing but otherwise not distracting to look at?
@@ -53,12 +54,18 @@ This section will critique the selected visualization using Stephen Few's Data V
 ### Audience Analysis
 **Who is the primary audience for this tool?**
   * People who are interested in understanding the relationship between inflation and unemployment. 
-  * People who need to leverage relationships to make relevant business decisions.
-* Do you think this visualization is effective for reaching that audience? Why or why not?
+  * People who need to leverage their relationship to make relevant business decisions.
+
+**Do you think this visualization is effective for reaching that audience? Why or why not?**
   * The line graph format is a common and well-understood visual representation of data, and the clear labeling of the x-axis and y-axis with appropriate units makes it easy to understand the data being presented. The use of colors, labels, and design add to the overall engagement of the graph and make it an effective tool for communicating the data to this audience.
 
 ### Final thoughts: 
-* How successful what this method at evaluating the data visualization you selected? 
-  The Data Visualization Effectiveness Profile method is more focused on evaluating existing visualizations and determining their effectiveness, while the Good Charts method is focused on a step-by-step process for creating new visualizations. The Data Visualization Effectiveness Profile method evaluates visualizations based on specific criteria, such as the clarity of the data being presented and the use of colors and labels, while the Good Charts method provides a broader set of guidelines for creating effective visualizations.
-* Are there measures you feel are missing or not being captured here?  
+**How successful what this method at evaluating the data visualization you selected?**
+
+The Data Visualization Effectiveness Profile method is more focused on evaluating existing visualizations and determining their effectiveness, while the Good Charts method is focused on a step-by-step process for creating new visualizations. The Data Visualization Effectiveness Profile method evaluates visualizations based on specific criteria and the measurement is qunatified, while the Good Charts method provides a broader set of guidelines for creating effective visualizations.
+
+**Are there measures you feel are missing or not being captured here?**
+
+
+
 * What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)
