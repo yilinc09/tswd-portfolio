@@ -79,7 +79,7 @@ I don't feel any missing measures that needed to be captured at this point.
 
 ## Step three: sketch out a solution
 
-#### Redesign Ideas
+### Redesign Ideas
 
 In order to effectively communicate the idea behind the original visualizations, I made the following alterations to my preliminary sketches:
 
@@ -109,10 +109,20 @@ In order to effectively communicate the idea behind the original visualizations,
 * **Remove Unnecessary Information**
   * Eliminate the monthly data and replace it with the average data for each year.
 
-#### Sketches
+### Sketch
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12717169"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Step four: Test the solution
 
-What worked?
+- Can you tell me what you think this is?
+  
+  Male, mid 20's: 
+
+- Can you describe to me what this is telling you?
+
+- Is there anything you find surprising or confusing?
+
+- Who do you think is the intended audience for this?
+
+- Is there anything you would change or do differently?
