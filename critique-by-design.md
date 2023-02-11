@@ -115,6 +115,8 @@ In order to effectively communicate the idea behind the original visualizations,
 
 ## Step four: Test the solution
 
+### Interviews
+
 **Can you tell me what you think this is?**
   
 - Male, mid 20's: 
@@ -140,10 +142,12 @@ In order to effectively communicate the idea behind the original visualizations,
 - Male, mid 20's: 
 - Female, mid 20's:
 
-Similarities 
+### Reflections
 
-Differences 
+**Similarities**
 
-What patterns in the feedback emerge?  
+**Differences**
 
-What did you learn from the feedback?
+**What patterns in the feedback emerge?** 
+
+**What did you learn from the feedback?**
