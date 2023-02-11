@@ -120,26 +120,26 @@ In order to effectively communicate the idea behind the original visualizations,
 **Can you tell me what you think this is?**
   
 - Male, mid 20's: Overall it's a good design. Line chart is always effective in visualizing time series data.
-- Female, mid 20's:
+- Female, mid 20's: it's a graph that compare and contrasts the US annual inflation rate with unemployment rate ranging from 1975 to 2022.
 
 **Can you describe to me what this is telling you?**
 
 - Male, mid 20's: This visualization is trying to tell the relationship between unemployment and inflation
-- Female, mid 20's:
+- Female, mid 20's: This tell me that piror to 1983, the inflation is high yet the unemployment rate is relavtively low. From 1983 to 2022, the unemployment rate has been higher than the inflation rate. In 2022, the inflation rate seems to sky rocket and passing the unemployment rate.
 
 **Is there anything you find surprising or confusing?**
 
 - Male, mid 20's: The relationship between the two variables is not evident from the data and information presented in the visualization.
-- Female, mid 20's:
+- Female, mid 20's: Nothing is surprising to me, because both the inflation rate and unemployment rate in 2008 and 2020 reflects the global pandemic
 
 **Who do you think is the intended audience for this?**
 
 - Male, mid 20's: People who are interested in economics
-- Female, mid 20's:
+- Female, mid 20's: the intented auidence is for socialists to analyze the relationship between unemployment rate and inflation rate
 
 **Is there anything you would change or do differently?**
 
-- Male, mid 20's: 
+- Male, mid 20's: it would be more readable if there are labels included for the major events
 - Female, mid 20's: I would add a subtitle to clarify the their relationships.
 
 ### Reflections
