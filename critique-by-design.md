@@ -74,8 +74,8 @@ The Good Charts method, on the other hand, is a more focused and practical appro
 I don't feel any missing measures that needed to be captured at this point.
 
 **What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)**
-* Change labels and titles of both axes
-* Remove unnecessary monthly information
+* Change both axes with more appropriate labels and titles
+* Change monthly information to annualy
 
 ## Step three: sketch out a solution
 
@@ -107,7 +107,7 @@ In order to effectively communicate the idea behind the original visualizations,
   * In order to ensure that the information remains up-to-date, I will extend the timeline in the original visualization, which originally ended in 2010, to the latest end point of 2022.
 
 * **Remove Unnecessary Information**
-  * 
+  * Eliminate the monthly data and replace it with the average data for each year.
 
 #### Sketches
 
