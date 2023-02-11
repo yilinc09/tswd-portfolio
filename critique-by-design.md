@@ -119,28 +119,28 @@ In order to effectively communicate the idea behind the original visualizations,
 
 **Can you tell me what you think this is?**
   
-- Male, mid 20's: 
+- Male, mid 20's: Overall it's a good design. Line chart is always effective in visualizing time series data.
 - Female, mid 20's:
 
 **Can you describe to me what this is telling you?**
 
-- Male, mid 20's: 
+- Male, mid 20's: This visualization is trying to tell the relationship between unemployment and inflation
 - Female, mid 20's:
 
 **Is there anything you find surprising or confusing?**
 
-- Male, mid 20's: 
+- Male, mid 20's: The relationship between the two variables is not evident from the data and information presented in the visualization.
 - Female, mid 20's:
 
 **Who do you think is the intended audience for this?**
 
-- Male, mid 20's: 
+- Male, mid 20's: People who are interested in economics
 - Female, mid 20's:
 
 **Is there anything you would change or do differently?**
 
 - Male, mid 20's: 
-- Female, mid 20's:
+- Female, mid 20's: I would add a subtitle to clarify the their relationships.
 
 ### Reflections
 
