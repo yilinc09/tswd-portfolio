@@ -26,7 +26,7 @@ The reader could not understand the information with minimal effort because it r
 
 ### 4. Truthfulness - 10
 
-The data used to create the visualization is accurate and reliable because the data is sourced from [Federal Reserve Bank of St. Louis](https://www.stlouisfed.org/) as cited in the graph. In addition, the methodology employed in creating the graph is valid because time series line graph effectively represents changes in unemployment and inflation over time and provides a clear representation of the relationship between them. Therefore, the visualization has represented the main idea in the most complete and truthful manner without making comparisions that are incorrect.
+The data used to create the visualization is accurate and reliable because the data is sourced from [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/) as cited in the graph. In addition, the methodology employed in creating the graph is valid because time series line graph effectively represents changes in unemployment and inflation over time and provides a clear representation of the relationship between them. Therefore, the visualization has represented the main idea in the most complete and truthful manner without making comparisions that are incorrect.
 
 ### 5. Intuitiveness - 5
 
@@ -67,15 +67,15 @@ In general, this method can be considered as a useful tool for evaluating the ef
 
 The Data Visualization Effectiveness Profile method is focused on evaluating existing visualizations and determining their effectiveness. The DVEP framework provides a systematic and structured approach to evaluating the quality of visualizations, making it a useful tool for data visualization experts and researchers. The method quantifies each metric through a scale, providing clarity and facilitating understanding. However, applying the DVEP can be time-consuming.
 
-The Good Charts method, on the other hand, is a more focused and practical approach to evaluating data visualizations. The method includes four critique metrics: what the viewer sees first, what they like, what they dislike, and what they wish to see. These metrics provide a simple and straightforward way to evaluate the quality of data visualizations, making it a useful tool for data visualization practitioners. The Good Charts method is well-suited for those who want to improve the quality of their visualizations in a practical and straightforward manner.
+The Good Charts method, on the other hand, is a more focused and practical approach to evaluating data visualizations. The metrics of this method provide a simple and straightforward way to evaluate the quality of data visualizations, making it a useful tool for data visualization practitioners. The Good Charts method is well-suited for those who want to improve the quality of their visualizations in a practical and straightforward manner.
 
 **Are there measures you feel are missing or not being captured here?**
 
 I don't feel any missing measures that needed to be captured at this point.
 
 **What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)**
-
-I would change the visualization by creating the shaded gray background on when the United States is in recession and possibly extend the timeline to current years.
+* Change labels and titles of both axes
+* Remove unnecessary monthly information
 
 ## Step three: sketch out a solution
 
@@ -86,7 +86,7 @@ In order to effectively communicate the idea behind the original visualizations,
 * **X-axis**
   * The x-axis will be labeled with years
   * A title will be added to the x-axis as "Years"
-  * ticks will be placed at every year
+  * ticks will be placed at every five years
   * The x-axis label will be positioned at the bottom of the graph
 
 * **Y-axis**
@@ -94,13 +94,25 @@ In order to effectively communicate the idea behind the original visualizations,
   * The y-axis labels will be represented as integers
  
 * **Legend**
-  * The legend, previously located at the bottom outside of the chart, will be relocated to the upper right corner of the chart.
+  * The legend, previously located at the very bottom of the visualization, will now be positioned right below the title. This change is intended to make the legend to be the second most eye-catching aspect for the audience.
+  * To provide additional clarity regarding the line representation, I have also added the name at the end of each line.
 
 * **Title**
   * Change the title to "U.S. Unemployment vs. Inflation"
 
-* **Relevant Information**
-  * In order to ensure that the information remains up-to-date, I will extend the timeline in the original visualization, which ended in 2010, to the latest end point of 2022.
+* **Citation**
+  * In addition to the existing source name, I hyperlinked the corresponding source url.
+
+* **Add More Information**
+  * In order to ensure that the information remains up-to-date, I will extend the timeline in the original visualization, which originally ended in 2010, to the latest end point of 2022.
+
+* **Remove Unnecessary Information**
   * 
 
 #### Sketches
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/12717169"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Step four: Test the solution
+
+What worked?
