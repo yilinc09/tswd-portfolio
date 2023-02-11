@@ -75,3 +75,27 @@ I would redesign the visualization by creating the shaded gray background on whe
 
 ## Step three: sketch out a solution
 
+#### Redesign Ideas
+
+In order to effectively communicate the idea behind the original visualizations, I made the following alterations to my preliminary sketches:
+
+* **X-axis**
+  * The x-axis will be labeled with years
+  * A title will be added to the x-axis as "Years"
+  * ticks will be placed at every year
+  * The x-axis label will be positioned at the bottom of the graph
+
+* **Y-axis**
+  * The title will be renamed to "Rate(%)"
+  * The y-axis labels will be represented as integers
+ 
+* **Legend**
+  * The legend, previously located at the bottom outside of the chart, will be relocated to the upper right corner of the chart.
+
+* **Title**
+  * Change the title to "U.S. Unemployment vs. Inflation"
+
+* **Information**
+  * 
+
+#### Sketches
