@@ -145,12 +145,23 @@ In order to effectively communicate the idea behind the original visualizations,
 ### Reflections
 
 **Similarities**
+- All recognize the line chart format as effective for visualizing time series data.
+- All suggest adding labels or a subtitle to clarify the relationship between the two variables, indicating that they believe the relationship is unclear from the information presented.
+- All believe that the intended audience for the visualization is related to economics.
+- All recognize that the events of 2008 and 2020 in the data are related to the global pandemic.
 
 **Differences**
 
+The interviewees may have slightly different perspectives on the purpose and effectiveness of the visualization, and have different ideas for how to improve it.
+
 **What patterns in the feedback emerge?** 
 
+From the feedback of the interviews, it becomes clear that there is a focus on making the visualization clarity and more understandable for the intended audience. All interviewees suggest adding additional information or clarification to the visualization to make it easier to understand, highlighting the importance of clarity in visualizations. Additionally, both interviewees recognize the line chart format as an effective way to visualize time series data. This highlights a general understanding of best practices for data visualization. The interviewees also believe that the intended audience and focus of the visualization is related to economics, indicating that the visualization is targeted towards a specific subject area. Lastly, all interviewees consider major events in the data, with one suggesting adding labels to highlight these events and the other suggesting adding a subtitle to clarify the relationship between the two variables. This suggests a recognition of the importance of context in data visualization.
+
 **What did you learn from the feedback?**
+
+From the feedback, it can be concluded that clarity and understandability are important factors in data visualization. The line chart format is recognized as an effective way to visualize time series data. Additionally, all interviewees consider major events in the data as important context to include in the visualization. This highlights the importance of context and understanding the intended audience in data visualization.
+
 
 ## Step five: Build your solution
 
