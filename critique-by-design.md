@@ -86,7 +86,7 @@ In order to effectively communicate the idea behind the original visualizations,
 * **X-axis**
   * The x-axis will be labeled with years
   * A title will be added to the x-axis as "Years"
-  * ticks will be placed at every five years
+  * ticks will be placed in unit of years
   * The x-axis label will be positioned at the bottom of the graph
 
 * **Y-axis**
@@ -151,3 +151,7 @@ In order to effectively communicate the idea behind the original visualizations,
 **What patterns in the feedback emerge?** 
 
 **What did you learn from the feedback?**
+
+## Step five: Build your solution
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/12717395"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
