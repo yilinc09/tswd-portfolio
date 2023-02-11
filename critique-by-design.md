@@ -115,14 +115,35 @@ In order to effectively communicate the idea behind the original visualizations,
 
 ## Step four: Test the solution
 
-- Can you tell me what you think this is?
+**Can you tell me what you think this is?**
   
-  Male, mid 20's: 
+- Male, mid 20's: 
+- Female, mid 20's:
 
-- Can you describe to me what this is telling you?
+**Can you describe to me what this is telling you?**
 
-- Is there anything you find surprising or confusing?
+- Male, mid 20's: 
+- Female, mid 20's:
 
-- Who do you think is the intended audience for this?
+**Is there anything you find surprising or confusing?**
 
-- Is there anything you would change or do differently?
+- Male, mid 20's: 
+- Female, mid 20's:
+
+**Who do you think is the intended audience for this?**
+
+- Male, mid 20's: 
+- Female, mid 20's:
+
+**Is there anything you would change or do differently?**
+
+- Male, mid 20's: 
+- Female, mid 20's:
+
+Similarities 
+
+Differences 
+
+What patterns in the feedback emerge?  
+
+What did you learn from the feedback?
