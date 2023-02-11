@@ -63,7 +63,11 @@ The line graph format is a common and well-understood visual representation of t
 
 In general, this method can be considered as a useful tool for evaluating the effectiveness of my selected data visualization. It helped me evaluate the visualization from multiple dimensions and gave me a more holistic understanding of the topic. As I evaluate it more deeply, it made me more aware of what information I want this visualization to communicate, and what this visualization lacks in terms of effective storytelling. Although the standard details of some criteria seems to be overlapping, it is still able to provide me a more complete picture on the redesign process of the visualization.
 
-The Data Visualization Effectiveness Profile method is more focused on evaluating existing visualizations and determining their effectiveness, while the Good Charts method is focused on a step-by-step process for creating new visualizations. The Data Visualization Effectiveness Profile method evaluates visualizations based on specific criteria and the measurement is qunatified, while the Good Charts method provides a broader set of guidelines for creating effective visualizations.
+**How does this method compare to the Good Charts method?**
+
+The Data Visualization Effectiveness Profile method is focused on evaluating existing visualizations and determining their effectiveness. The DVEP framework provides a systematic and structured approach to evaluating the quality of visualizations, making it a useful tool for data visualization experts and researchers. The method quantifies each metric through a scale, providing clarity and facilitating understanding. However, applying the DVEP can be time-consuming.
+
+The Good Charts method, on the other hand, is a more focused and practical approach to evaluating data visualizations. The method includes four critique metrics: what the viewer sees first, what they like, what they dislike, and what they wish to see. These metrics provide a simple and straightforward way to evaluate the quality of data visualizations, making it a useful tool for data visualization practitioners. The Good Charts method is well-suited for those who want to improve the quality of their visualizations in a practical and straightforward manner.
 
 **Are there measures you feel are missing or not being captured here?**
 
@@ -71,7 +75,7 @@ I don't feel any missing measures that needed to be captured at this point.
 
 **What would you change?  Provide 1-2 recommendations (color, type of visualization, layout, etc.)**
 
-I would redesign the visualization by creating the shaded gray background on when the United States is in recession and possibly extend the timeline to current years.
+I would change the visualization by creating the shaded gray background on when the United States is in recession and possibly extend the timeline to current years.
 
 ## Step three: sketch out a solution
 
@@ -95,7 +99,8 @@ In order to effectively communicate the idea behind the original visualizations,
 * **Title**
   * Change the title to "U.S. Unemployment vs. Inflation"
 
-* **Information**
+* **Relevant Information**
+  * In order to ensure that the information remains up-to-date, I will extend the timeline in the original visualization, which ended in 2010, to the latest end point of 2022.
   * 
 
 #### Sketches
