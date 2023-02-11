@@ -154,4 +154,12 @@ In order to effectively communicate the idea behind the original visualizations,
 
 ## Step five: Build your solution
 
+### Design Modification
+
+- Add a subtitle to clarify the message of this visualization
+- Change annually data to quarterly data
+- Highlight the Time of Recession
+
+### Final Data Visualization
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/12717395"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
