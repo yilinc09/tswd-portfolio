@@ -16,10 +16,9 @@ Hello, I am Yilin. I am a second-year graduate student at Carnegie Mellon Univer
 ### Assignment 2: [Visualizing Government Debt](visualizing-government-debt.md)
 ### Assignment 3 & 4: [Critique by Design](critique-by-design.md)
 ### Final Project
-#### - [Part I: Project proposal](final_project_yilincao.md)
+#### - Part I: [Project proposal](final_project_yilincao.md)
    An outline of project, copies of data, and the identified method used for presenting.
 #### - Part II: Sketches, wireframes, storyboards
    User research and incorporating user feedback.
 #### - Part III: Final deliverable and presentation
    The final deliverable.
-
