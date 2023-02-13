@@ -1,4 +1,21 @@
 ## An outline
+
+How COVID-19 has changed consumer spending habits
+
+#### Summary
+The COVID-19 pandemic has had a devastating impact on the global economy, causing widespread job losses, business closures, and declining consumer spending. The pandemic has caused unprecedented disruptions to supply chains, reduced consumer confidence, and led to widespread economic uncertainty. As a result of these factors, consumers have changed their spending habits, becoming more cautious and focusing on necessities rather than luxury items. This shift in spending has had a profound impact on many industries, including retail, hospitality, and tourism, and has led to significant changes in the way that businesses operate and the products and services they offer. These changes will likely have long-lasting effects on the global economy and the way that consumers spend their money in the future.
+
+The primary audience of this project is the master's students at the Heinz College at Carnegie Mellon University. Through this project, I wish to highlight how consumer spending habits has changed in COVID-19, primarily focusing on the shifts that have occurred in 2022.
+
+#### Project Structure
+- Shift to online shopping: With lockdowns and social distancing measures in place, many consumers have turned to online shopping for their necessities, leading to a surge in e-commerce activity.
+- Increase in spending on necessities: Consumers have been spending more on necessities such as groceries, household supplies, and health-related products, as they spend more time at home and take precautions against the virus.
+- Decline in spending on discretionary items: With widespread economic uncertainty and job loss, consumers have cut back on spending on discretionary items such as dining out, travel, and entertainment.
+- Rise in savings and debt reduction: Some consumers have taken advantage of the pandemic to save more money, reduce debt, and focus on financial stability.
+- Changes in spending patterns: The pandemic has also caused changes in the timing and frequency of consumer spending, as well as shifts in spending priorities and preferences.
+
+
+
 The outline of your final project should serve as the building blocks for the rest of your presentation.  Your outline should be something that you can later use to help fill in some of the details around your project.  
 
 At a minimum, you should include the following: 
