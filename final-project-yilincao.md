@@ -8,6 +8,8 @@ The COVID-19 pandemic has had a devastating impact on the global economy, causin
 The primary audience of this project is the master's students at the Heinz College at Carnegie Mellon University. Through this project, I wish to highlight how consumer spending habits has changed in COVID-19, primarily focusing on the shifts that have occurred in 2022.
 
 #### Project Structure
+- Background: GDP declines (2020), unemployment rate rises
+- 
 - Shift to online shopping: With lockdowns and social distancing measures in place, many consumers have turned to online shopping for their necessities, leading to a surge in e-commerce activity.
 - Increase in spending on necessities: Consumers have been spending more on necessities such as groceries, household supplies, and health-related products, as they spend more time at home and take precautions against the virus.
 - Decline in spending on discretionary items: With widespread economic uncertainty and job loss, consumers have cut back on spending on discretionary items such as dining out, travel, and entertainment.
@@ -37,4 +39,5 @@ At a minimum, you should include the following:
 
 
 ## Method and medium
-In a few sentences, you should document how you plan on completing your final project.  One option we've already discussed is building a story using your data using Shorthand - but this is my no means your only option.
+
+To finish the final project, I plan to build up the story presented in the previous section using Shorthand by integrating relevant data visualizations and images. The visualizations will mainly be developed using Flourish, with the possibility of using Tableau if it proves to be a more appropriate tool for some of the visualizations. I will also search for appealing images on Unsplash to enhance the narrative and make it more impactful.
