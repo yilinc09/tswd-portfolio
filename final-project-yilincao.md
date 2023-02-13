@@ -1,6 +1,6 @@
 ## An outline
 
-How COVID-19 has changed consumer spending habits
+## How COVID-19 has changed consumer spending habits
 
 #### Summary
 The COVID-19 pandemic has had a devastating impact on the global economy, causing widespread job losses, business closures, and declining consumer spending. The pandemic has caused unprecedented disruptions to supply chains, reduced consumer confidence, and led to widespread economic uncertainty. As a result of these factors, consumers have changed their spending habits, becoming more cautious and focusing on necessities rather than luxury items. This shift in spending has had a profound impact on many industries, including retail, hospitality, and tourism, and has led to significant changes in the way that businesses operate and the products and services they offer. These changes will likely have long-lasting effects on the global economy and the way that consumers spend their money in the future.
