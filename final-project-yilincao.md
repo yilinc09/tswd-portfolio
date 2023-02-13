@@ -30,12 +30,18 @@ At a minimum, you should include the following:
 We've begun to explore how sketching can be a great way to help solidify your ideas into design choices, and for your proposal you'll be creating sketches that outline your initial thoughts for your final project.  You may choose to present your sketches and integrate them into Part I of your final project in whatever fashion you feel makes the most sense - but they should be clear enough to be understandable to someone that has little to no contextual background for your project.  Your sketches should mimic and follow aspects of your outline, and build on the resounding message you want to make clear through your project.  Build in elements of your anticipated story structure for your project.  Your sketches themselves do not have to be visually correct / accurate, but they should be detailed enough so that we can get some sense of what you're planning on doing. You may use whatever method makes the most sense to you (hand-drawn, digital, etc.).   Show both your anticipated data visualizations as well as major elements of your story itself (e.g key headers, etc.)
 
 ## The data
-It's important that you identify your primary data sources.  To be successful in the final project, you'll need to get a copy of the data you'll need for your final project, or recreate it based on various sources.  Make sure in all cases to record your sources and cite these data sources appropriately. 
-
 At a minimum, you should include the following: 
 
 - A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 - A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+
+(U.S Bureau of Labor Statistics)[https://www.bls.gov/]
+
+Government reports: Government agencies such as the Bureau of Labor Statistics (BLS) and the U.S. Census Bureau regularly collect and publish data on consumer spending expenditures.
+
+Retail sales data: Retail sales data, including online sales data, can provide a detailed picture of consumer spending patterns, including spending on necessities.
+
+E-commerce data: E-commerce platforms such as Amazon and Walmart provide data on consumer spending patterns, including spending on necessities, through their sales data.
 
 
 ## Method and medium
