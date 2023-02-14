@@ -3,6 +3,7 @@
 #### Summary
 
 **How COVID-19 has changed consumer spending habits**
+
 The COVID-19 pandemic has significantly impacted the global economy, resulting in widespread job losses, business closures, and decreased consumer spending. Due to this disruption of supply chains, economic uncertainty, and lower consumer confidence, there have been unprecedented challenges. Personally, I have noticed an increase in my online shopping habits in recent years, which sparked my curiosity to investigate the changes in consumer spending habits resulting from the pandemic. I intend to explore the underlying reasons for this shift, in addition to identifying the sectors that have been most affected by the pandemic and those that have managed to adapt effectively to the new circumstances.
 
 The primary target audience for this project is the master's students at Heinz College, Carnegie Mellon University. The project seeks to demonstrate how consumer spending patterns have changed in response to the pandemic across various categories, with a particular emphasis on the shifts that have occurred during 2020.
@@ -16,25 +17,31 @@ The primary target audience for this project is the master's students at Heinz C
 
 
 ## Initial sketches
-We've begun to explore how sketching can be a great way to help solidify your ideas into design choices, and for your proposal you'll be creating sketches that outline your initial thoughts for your final project.  You may choose to present your sketches and integrate them into Part I of your final project in whatever fashion you feel makes the most sense - but they should be clear enough to be understandable to someone that has little to no contextual background for your project.  Your sketches should mimic and follow aspects of your outline, and build on the resounding message you want to make clear through your project.  Build in elements of your anticipated story structure for your project.  Your sketches themselves do not have to be visually correct / accurate, but they should be detailed enough so that we can get some sense of what you're planning on doing. You may use whatever method makes the most sense to you (hand-drawn, digital, etc.).   Show both your anticipated data visualizations as well as major elements of your story itself (e.g key headers, etc.)
+
+#### Background
+
+#### Identify key trends
+
+#### Explore the reasons behind the trends
+
+#### Impact on different groups
 
 ## The data
 
 - Data Source 1: [Opportunity Insights (OI)](https://opportunityinsights.org/data/)
-  From this data source I will be able to access the [Consumer Spending Data National](https://github.com/OpportunityInsights/EconomicTracker/blob/main/data/Affinity%20-%20National%20-%20Daily.csv) that tracks consumer daily spending across categories of goods and services in the US. The data is collected from credit and debit card transactions.
+  
+  From this data source I access the [Consumer Spending Data National](https://github.com/OpportunityInsights/EconomicTracker/blob/main/data/Affinity%20-%20National%20-%20Daily.csv) that tracks consumer daily spending across categories of goods and services in the US. The data is collected from credit and debit card transactions.
 
 - Data Source 2: [U.S Bureau of Labor Statistics](https://www.bls.gov/)
   
-
+  BLS collects data on household spending from [Consumer Expenditure Survey (CEX)](https://www.bls.gov/cex/data.htm) on a wide range of goods and services, including food, housing, transportation, healthcare, and entertainment. The CEX data provides detailed information on the amount and distribution of household spending. I will use this source to compare the spending habits of different demographic groups.
+  
 - Data Source 3: [FRED Economic Data](https://fred.stlouisfed.org/)
-  From this source I will collect the data to show the trend of [GDP](https://fred.stlouisfed.org/series/GDP) and [unemployment rates](https://fred.stlouisfed.org/series/UNRATE) during COVID-19.
-
-Government reports: Government agencies such as the Bureau of Labor Statistics (BLS) and the U.S. Census Bureau regularly collect and publish data on consumer spending expenditures.
-
-Retail sales data: Retail sales data, including online sales data, can provide a detailed picture of consumer spending patterns, including spending on necessities.
-
-E-commerce data: E-commerce platforms such as Amazon and Walmart provide data on consumer spending patterns, including spending on necessities, through their sales data.
-
+  
+  From this source I collect the data to show the trend of [GDP](https://fred.stlouisfed.org/series/GDP) and [unemployment rates](https://fred.stlouisfed.org/series/UNRATE) during COVID-19.
+  
+- Data Source 4: E-commerce data
+  The sales data of E-commerce platforms such as Amazon, Zara, L'oreal, etc.
 
 ## Method and medium
 
