@@ -20,7 +20,10 @@ The primary target audience for this project is the master's students at Heinz C
 
 #### Background
 
+<img src="chat1.jpeg">
+
 #### Identify key trends
+<img src="chart2.jpeg">
 
 #### Explore the reasons behind the trends
 
@@ -41,6 +44,7 @@ The primary target audience for this project is the master's students at Heinz C
   From this source I collect the data to show the trend of [GDP](https://fred.stlouisfed.org/series/GDP) and [unemployment rates](https://fred.stlouisfed.org/series/UNRATE) during COVID-19.
   
 - Data Source 4: E-commerce data
+  
   The sales data of E-commerce platforms such as Amazon, Zara, L'oreal, etc.
 
 ## Method and medium
