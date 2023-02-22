@@ -1,28 +1,24 @@
 | [home page](https://yilinc09.github.io/tswd-portfolio/) | [visualizing debt](https://yilinc09.github.io/tswd-portfolio/visualizing-government-debt.html) | [critique by design](https://yilinc09.github.io/tswd-portfolio/critique-by-design.html) | [final project I](https://yilinc09.github.io/tswd-portfolio/final-project-yilincao.html) | [final project II](https://yilinc09.github.io/tswd-portfolio/final-project-part-two.html) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> You can access the link to view the initial version of the wireframe and storyboard for the project, which were created using Shorthand.
+
+You can access the link to view the initial version of the wireframe and storyboard for the project, which were created using Shorthand.
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+The primary audience will be master students who are taking the course _Telling Stories with Data_ in CMU. Therefore, I conducted interviews with three individuals from different graduate programs and genders in order to maximize the sample variation.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
 |      |                  |
-|      |                  |
+| To enhance the project's visual presentation | Do the color scheme and visualizations make sense and fit the project's theme appropriately? Do any modifications need to be made? |
 |      |                  |
 
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -52,9 +48,3 @@ Text here!
 > ...include any final thoughts you have here. 
 
 Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
