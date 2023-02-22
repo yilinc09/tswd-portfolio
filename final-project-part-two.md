@@ -14,24 +14,18 @@ The primary audience will be master students who are taking the course _Telling 
 
 | Goal | Questions to Ask |
 |------|------------------|
-| Ensure effective communication | - Do you find the presentation comprehensible and easy to follow? 
-|------------------------------- | - Is the logical flow clear to you? 
-|                                  - Do you feel interested and engaged with the content?|
+| Ensure effective communication | Do you find the presentation comprehensible and easy to follow? Is the logical flow clear to you? Do you feel interested and engaged with the content?|
 | Enhance visual presentation | Do the color scheme and visualizations make sense and fit the project's theme appropriately? Do any modifications need to be made? |
 | Obtain feedback for improvement | Do you have any recommendations for changes? Do you have any new ideas or suggestions to offer? |
 
 
-
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (Female, mid 20‘s) | Interview 2 (Male, mid 20’s) | Interview 3 (Female, mid 20's)|
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Can you easily follow the logical flow of this presentation? | Yes   |             |             |
+| Are the color scheme and visualization suitable for this context to help you understand the content?  |                                |             |             |
+| Any suggestions for improvements? |                                |             |             |
 
 
 # Identified changes for Part III
@@ -46,7 +40,3 @@ Text here!
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
