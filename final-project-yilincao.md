@@ -1,3 +1,5 @@
+| [home page](https://yilinc09.github.io/tswd-portfolio/) | [visualizing debt](https://yilinc09.github.io/tswd-portfolio/visualizing-government-debt.html) | [critique by design](https://yilinc09.github.io/tswd-portfolio/critique-by-design.html) | [final project I](https://yilinc09.github.io/tswd-portfolio/final-project-yilincao.html) | [final project II](https://yilinc09.github.io/tswd-portfolio/final-project-part-two.html) | [final project III](final-project-part-three) |
+
 ## An outline
 
 #### Summary
@@ -18,16 +20,8 @@ The primary target audience for this project is the master's students at Heinz C
 
 ## Initial sketches
 
-#### Background
-
 <img src="chat1.jpeg">
-
-#### Identify key trends
 <img src="chart2.jpeg">
-
-#### Explore the reasons behind the trends
-
-#### Impact on different groups
 
 ## The data
 
