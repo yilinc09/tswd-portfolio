@@ -14,9 +14,9 @@ The primary audience will be master students who are taking the course _Telling 
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-| To enhance the project's visual presentation | Do the color scheme and visualizations make sense and fit the project's theme appropriately? Do any modifications need to be made? |
-|      |                  |
+| Ensure effective communication | Do you find the presentation comprehensible and easy to follow? Is the logical flow clear to you? Do you feel interested and engaged with the content?|
+| Enhance visual presentation | Do the color scheme and visualizations make sense and fit the project's theme appropriately? Do any modifications need to be made? |
+| Obtain feedback for improvement | Do you have any recommendations for changes? Do you have any new ideas or suggestions to offer? |
 
 
 
