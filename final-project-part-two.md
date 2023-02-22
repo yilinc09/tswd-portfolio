@@ -1,9 +1,7 @@
 | [home page](https://yilinc09.github.io/tswd-portfolio/) | [visualizing debt](https://yilinc09.github.io/tswd-portfolio/visualizing-government-debt.html) | [critique by design](https://yilinc09.github.io/tswd-portfolio/critique-by-design.html) | [final project I](https://yilinc09.github.io/tswd-portfolio/final-project-yilincao.html) | [final project II](https://yilinc09.github.io/tswd-portfolio/final-project-part-two.html) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
+> You can access the link to view the initial version of the wireframe and storyboard for the project, which were created using Shorthand.
 
 # User research 
 
