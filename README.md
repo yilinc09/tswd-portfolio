@@ -18,7 +18,7 @@ Hello, I am Yilin. I am a second-year graduate student at Carnegie Mellon Univer
 ### Final Project
 #### - Part I: [Project proposal](final-project-yilincao.md)
    An outline of project, copies of data, and the identified method used for presenting.
-#### - Part II: Sketches, wireframes, storyboards
+#### - Part II: [Sketches, wireframes, storyboards](final-project-part-two.md)
    User research and incorporating user feedback.
 #### - Part III: Final deliverable and presentation
    The final deliverable.
