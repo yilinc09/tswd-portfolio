@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-You can access the link to view the initial version of the wireframe and storyboard for the project, which were created using Shorthand.
+You can access the [link](https://preview.shorthand.com/JJJAaNEKefNFhHj5) to view the initial version of the wireframe and storyboard for the project, which were created using Shorthand.
 
 # User research 
 
