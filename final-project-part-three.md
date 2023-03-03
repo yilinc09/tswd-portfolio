@@ -1,18 +1,16 @@
 | [home page](https://yilinc09.github.io/tswd-portfolio/) | [visualizing debt](https://yilinc09.github.io/tswd-portfolio/visualizing-government-debt.html) | [critique by design](https://yilinc09.github.io/tswd-portfolio/critique-by-design.html) | [final project I](https://yilinc09.github.io/tswd-portfolio/final-project-yilincao.html) | [final project II](https://yilinc09.github.io/tswd-portfolio/final-project-part-two.html) | [final project III](https://yilinc09.github.io/tswd-portfolio/final-project-part-three.html) |
 
 # The final data story
- 
 
+**Food Behavior in Chinese Households during Covid-19: Did Age Matter?** - [Link to Shorthand Storyboard](https://carnegiemellon.shorthandstories.com/food-behavior-in-chinese-households-during-covid-19-did-age-matter/index.html)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+My initial topic was about _How COVID-19 has changed consumer spending habits_, but 
+
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
