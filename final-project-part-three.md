@@ -1,9 +1,8 @@
-| [home page](https://yilinc09.github.io/tswd-portfolio/) | [visualizing debt](https://yilinc09.github.io/tswd-portfolio/visualizing-government-debt.html) | [critique by design](https://yilinc09.github.io/tswd-portfolio/critique-by-design.html) | [final project I](https://yilinc09.github.io/tswd-portfolio/final-project-yilincao.html) | [final project II](https://yilinc09.github.io/tswd-portfolio/final-project-part-two.html) | [final project III](final-project-part-three) |
+| [home page](https://yilinc09.github.io/tswd-portfolio/) | [visualizing debt](https://yilinc09.github.io/tswd-portfolio/visualizing-government-debt.html) | [critique by design](https://yilinc09.github.io/tswd-portfolio/critique-by-design.html) | [final project I](https://yilinc09.github.io/tswd-portfolio/final-project-yilincao.html) | [final project II](https://yilinc09.github.io/tswd-portfolio/final-project-part-two.html) | [final project III](https://yilinc09.github.io/tswd-portfolio/final-project-part-three.html) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+ 
 
-Text here!
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
