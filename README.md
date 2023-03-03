@@ -20,5 +20,5 @@ Hello, I am Yilin. I am a second-year graduate student at Carnegie Mellon Univer
    An outline of project, copies of data, and the identified method used for presenting.
 #### - Part II: [Sketches, wireframes, storyboards](final-project-part-two.md)
    User research and incorporating user feedback.
-#### - Part III: Final deliverable and presentation
+#### - Part III: [Final deliverable and presentation](final-project-part-three.md)
    The final deliverable.
